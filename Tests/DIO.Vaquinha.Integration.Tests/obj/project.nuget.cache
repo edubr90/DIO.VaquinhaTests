@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8/bmYUNIiUo0C5TEUZyrB5Z3uFx/+0fMaJ0X+8ZexnyN9cd+k4InX2G7hk78IiOQglpwM33Vz76kZ9wax8aM9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\DIO\\DIO.VaquinhaTests\\DIO.Vaquinha.Integration.Tests\\DIO.Vaquinha.Integration.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JOOE\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JOOE\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
